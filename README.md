@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MusclePlay (Fitness Application)](https://github.com/SangamGarg/MusclePlayApp)
 
-- 🌱 I’m currently learning **Android Jetpack Compose (KMP, CMM)**
+- 🌱 I’m currently learning **Android Jetpack Compose (KMP, CMP)**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.sangam.sangamportfolio](https://play.google.com/store/apps/details?id=com.sangam.sangamportfolio)
 
