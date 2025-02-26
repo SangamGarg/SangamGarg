@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sangamgarg17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14ECXfWxIY7IhSAdkfy353o8v46EMS4Jg/view?usp=sharing](https://drive.google.com/file/d/14ECXfWxIY7IhSAdkfy353o8v46EMS4Jg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing](https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
