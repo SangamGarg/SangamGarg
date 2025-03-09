@@ -6,11 +6,14 @@
 
 - 🌱 I’m currently learning **Android Jetpack Compose (KMP, CMP)**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.sangam.sangamportfolio](https://play.google.com/store/apps/details?id=com.sangam.sangamportfolio)
-
 - 📫 How to reach me **sangamgarg17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing](https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing)
+
+<h3 align="left">Get My Portfolio Application:</h3>
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.sangam.sangamportfolio" target="blank"><img align="center" src="https://github.com/SangamGarg/SangamGarg/blob/6d50427781c3f2ab3387f99d1c095e3571ced192/playgoogle.png" alt="Get My Portfolio Application" height="60" width="250" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +21,11 @@
 <a href="https://instagram.com/sangamgarg19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangamgarg19" height="30" width="40" /></a>
 <a href="https://medium.com/@sangamgarg17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sangamgarg17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sangamgarg19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sangamgarg19" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Buy me a coffee:</h3>
+<p align="left">
+<a href="https://buymeacoffee.com/sangamgarg" target="blank"><img align="center" src="https://github.com/SangamGarg/SangamGarg/blob/90e7ceb01ed3c5f941e2c605409482566362853d/coffee.png" alt="Buy me a coffee" height="50" width="300" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
