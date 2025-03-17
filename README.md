@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sangamgarg17@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oUGPEvzC_IQvatXDPqZ1uaDArcZJgYaJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YCv3Rjr9EgpBHObQZ5QQ6p0NLPs1Rds8/view?usp=sharing)
 
 <h3 align="left">Get My Portfolio Application:</h3>
 <p align="left">
