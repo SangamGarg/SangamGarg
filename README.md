@@ -1,4 +1,6 @@
 ![logo](https://github.com/SangamGarg/SangamGarg/blob/1e427cf99009129a54ed37600dbb26a67c8a6829/githubcoverpage.png)
+![logo2](https://github.com/SangamGarg/SangamGarg/blob/5aefdf894a756820e8ddbc70a6b6f647e2ee65f4/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi 👋, I'm Sangam Garg</h1>
 <h3 align="center">Passionate Computer Software Engineer with a passion for crafting high-quality software solutions.</h3>
 
