@@ -1,14 +1,16 @@
 ![logo](https://github.com/SangamGarg/SangamGarg/blob/1e427cf99009129a54ed37600dbb26a67c8a6829/githubcoverpage.png)
 <h1 align="center">Hi 👋, I'm Sangam Garg</h1>
-<h3 align="center">Passionate Computer Software Engineer with a passion for crafting high-quality software solutions.</h3>
+<h3 align="center">Software engineer with 1+ years of experience in software development and with a strong foundation in computer science.
+Contributed to enterprise-level systems and backend services focused on reliability, security, and efficiency.</h3>
 
-- 🔭 I’m currently working on [MusclePlay (Fitness Application)](https://github.com/SangamGarg/MusclePlayApp)
-
-- 🌱 I’m currently learning **Android Jetpack Compose (KMP, CMP)**
-
+- 🔭 I’m currently working on State Bank of India, CKYC (Central Know Your Customer) Project as a Java Developer : TATA CONSULTANCY SERVICES – Mumbai, India
+  
 - 📫 How to reach me **sangamgarg17@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bfq6UIa2XRBeRNNWCN_UcGfkssQ1kJkm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fUTGkP3fYaab9mzM90pZfy9ZxsWnjE0_/view?usp=drive_link)
+
+- 📄 Have a look at my portfolio website [Portfolio Website](https://www.sangamgarg.in/)
+
 
 <h3 align="left">Get My Portfolio Application:</h3>
 <p align="left">
