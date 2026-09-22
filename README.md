@@ -7,7 +7,7 @@ Contributed to enterprise-level systems and backend services focused on reliabil
   
 - 📫 How to reach me **sangamgarg17@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fUTGkP3fYaab9mzM90pZfy9ZxsWnjE0_/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aE2huB2QUgW1b_UA7C9OiSNjQASeg1gt/view?usp=sharing)
 
 - 📄 Have a look at my portfolio website [Portfolio Website](https://www.sangamgarg.in/)
 
